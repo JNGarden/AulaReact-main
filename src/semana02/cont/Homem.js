@@ -1,6 +1,6 @@
 import React from "react";
 import Buttons from "./ButtonCount";
-import imgHomem from "../../img/homem.png";
+import imgHomem from "../../img/homem.jpg";
 import "./style.css";
 
 export default function Homem({ count, setCount }) {
