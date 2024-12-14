@@ -5,7 +5,7 @@ import "./style.css";
 
 export default function Mulher({ count, setCount }) {
   return (
-    <div className="counter">
+    <div className="coun">
       <div className="div">
         <h3>Mulheres</h3>
         <img className="imgPessoa" src={imgMulher} alt="Mulher" />
